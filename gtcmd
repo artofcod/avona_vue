@@ -1,0 +1,10 @@
+1> this is for seting remote repo link to git  
+*>git remote add origin  git@github.com:soumitracode/test.git
+
+2> this is for configuring username , password , email and  url also.so that every time when push then git will not ask for username and password 
+*> git config --global user.name "your username"
+
+   git config --global user.password "your password"
+
+   git config --global user.email "your email"
+
